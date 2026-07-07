@@ -1,20 +1,29 @@
-## Online UK Retail Customer and Revenue Analysis
+## Online UK Retail Customer analytics, Churn & Segmentation
 
-**Tools:** Python, SQL, Pandas, SQLite
+**Tools:** Python, SQL, Pandas, SQLite, Scikit-Learn
 
 ### Project Overview
-Analyzed a UK-based e-commerce transactional dataset to understand revenue trends,
-customer concentration, and international performance.
+Analyzed a UK-based e-commerce transactional dataset to uncover revenue trends, customer purchasing behavior, churn risk, and customer segments. Combined SQL, Python, and machine learning techniques to generate business insights that support customer retention and growth strategies.
 
 ### Key Analyses
-- Month-over-month revenue growth using SQL window functions
-- Top customers per country and global customer ranking using RANK()
-- Data cleaning and exploratory analysis in Python
-- Statistical analysis to identify purchasing patterns and seasonality
+• Month-over-month revenue growth analysis using SQL window functions (LAG)
+• Top customers by country and global customer ranking using CTEs and RANK()
+• Data cleaning, exploratory analysis, and revenue trend analysis in Python
+• RFM (Recency, Frequency, Monetary) feature engineering to profile customer behavior
+• Customer churn prediction using Logistic Regression, Decision Trees, and Random Forests
+• Customer segmentation using K-Means clustering
 
 ### Key Insights
-- Revenue is highly concentrated among a small number of customers
-- Strong seasonality with peak performance toward year-end
-- Certain international markets generate disproportionate revenue
+• Revenue is highly concentrated among a small number of customers
+• Strong seasonality with peak performance toward year-end
+• Certain international markets generate disproportionate revenue
+• Recency was identified as the strongest predictor of customer churn
+• Customer segmentation revealed four distinct groups: Champions, Loyal Customers, Regular Customers, and Lost Customers
+
+### Machine Learning Results
+• Built a Logistic Regression churn model achieving approximately 99% test accuracy
+• Evaluated churn drivers using Decision Tree and Random Forest models
+• Identified Recency as the most influential feature, accounting for approximately 88% of model importance
+• Segmented customers into retention-focused groups to support lifecycle marketing strategies
 
 📊 Kaggle Notebook: https://kaggle.com/igormlopes
