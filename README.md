@@ -2,6 +2,8 @@
 
 **Tools:** Python, SQL, Pandas, SQLite, Scikit-Learn
 
+**Dataset:** UCI Online Retail Dataset (541,909 transactions)
+
 ### Project Overview
 Analyzed a UK-based e-commerce dataset using SQL, Python, statistical analysis, and machine learning to understand customer behavior, revenue trends, churn risk, and customer segmentation. Generated data-driven recommendations focused on customer retention, customer lifetime value, and revenue growth.
 
