@@ -41,15 +41,15 @@ Analyzed a UK-based e-commerce dataset using SQL, Python, statistical analysis, 
 
 **Target Segment: Champions and Loyal Customers**
 
-### A relatively small group of customers generates a disproportionate share of revenue. The business should implement VIP loyalty programs, personalized offers, and proactive customer engagement to reduce churn among these high-value customers.
+A relatively small group of customers generates a disproportionate share of revenue. The business should implement VIP loyalty programs, personalized offers, and proactive customer engagement to reduce churn among these high-value customers.
 
-### Expected Impact: Increased customer retention and higher customer lifetime value among the most profitable customer segments.
+**Expected Impact: Increased customer retention and higher customer lifetime value among the most profitable customer segments.**
 ￼
 3. Launch Win-Back Campaigns for Inactive Customers
 
 **Target Segment: Lost Customers**
 
-### Customers who have not purchased recently represent an opportunity for revenue recovery. Personalized re-engagement emails, limited-time promotions, and targeted discounts can encourage previously active customers to return.
+Customers who have not purchased recently represent an opportunity for revenue recovery. Personalized re-engagement emails, limited-time promotions, and targeted discounts can encourage previously active customers to return.
 
 **Expected Impact: Recovery of inactive customers and incremental revenue growth through reactivation campaigns.**
 ￼
@@ -57,13 +57,13 @@ Analyzed a UK-based e-commerce dataset using SQL, Python, statistical analysis, 
 
 **Target Segment: Regular Customers**
 
-### Regular customers represent the largest customer group and have the greatest potential to move into higher-value segments. Automated email campaigns, product recommendations, and repeat-purchase incentives can increase engagement and purchasing frequency.
+Regular customers represent the largest customer group and have the greatest potential to move into higher-value segments. Automated email campaigns, product recommendations, and repeat-purchase incentives can increase engagement and purchasing frequency.
 
 **Expected Impact: Higher repeat purchase rates, improved customer engagement, and growth in the number of Loyal Customers.**
 ￼
 **Strategic Takeaway**
 
-### Customer retention presents one of the highest-return opportunities identified in this analysis. Combining churn prediction with customer segmentation enables the business to target the right customers with the right retention strategy, helping improve customer lifetime value and support sustainable revenue growth.
+Customer retention presents one of the highest-return opportunities identified in this analysis. Combining churn prediction with customer segmentation enables the business to target the right customers with the right retention strategy, helping improve customer lifetime value and support sustainable revenue growth.
 
 
 📊 Kaggle Notebook: https://kaggle.com/igormlopes
