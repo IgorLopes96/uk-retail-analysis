@@ -38,22 +38,25 @@ Analyzed a UK-based e-commerce dataset using SQL, Python, statistical analysis, 
 ### Business Recommendations
 
 1. Prioritize Retention of High-Value Customers
+   
 
 **Target Segment: Champions and Loyal Customers**
 
 A relatively small group of customers generates a disproportionate share of revenue. The business should implement VIP loyalty programs, personalized offers, and proactive customer engagement to reduce churn among these high-value customers.
 
 **Expected Impact: Increased customer retention and higher customer lifetime value among the most profitable customer segments.**
+
 ￼
-3. Launch Win-Back Campaigns for Inactive Customers
+2. Launch Win-Back Campaigns for Inactive Customers
 
 **Target Segment: Lost Customers**
 
 Customers who have not purchased recently represent an opportunity for revenue recovery. Personalized re-engagement emails, limited-time promotions, and targeted discounts can encourage previously active customers to return.
 
 **Expected Impact: Recovery of inactive customers and incremental revenue growth through reactivation campaigns.**
+
 ￼
-4. Develop Lifecycle Marketing for Regular Customers
+3. Develop Lifecycle Marketing for Regular Customers
 
 **Target Segment: Regular Customers**
 
