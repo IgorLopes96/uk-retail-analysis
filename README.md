@@ -63,10 +63,27 @@ Customers who have not purchased recently represent an opportunity for revenue r
 Regular customers represent the largest customer group and have the greatest potential to move into higher-value segments. Automated email campaigns, product recommendations, and repeat-purchase incentives can increase engagement and purchasing frequency.
 
 **Expected Impact: Higher repeat purchase rates, improved customer engagement, and growth in the number of Loyal Customers.**
+
 ￼
 **Strategic Takeaway**
 
 Customer retention presents one of the highest-return opportunities identified in this analysis. Combining churn prediction with customer segmentation enables the business to target the right customers with the right retention strategy, helping improve customer lifetime value and support sustainable revenue growth.
 
 
+## Related Business Analysis & Dashboard Project
+
+The findings from this analytics project were used as the foundation for a follow-up Business Analysis and Business Intelligence project.
+
+After identifying customer segments, churn drivers, and retention opportunities, the analysis was translated into:
+
+- Business Requirements Documentation (BRD) in Confluence
+- Jira Epic and User Stories
+- Stakeholder and functional requirements
+- Power BI Customer Churn & Segmentation Dashboard
+
+This follow-up project demonstrates how analytics insights can be transformed into business requirements and reporting solutions that support decision-making.
+
+Related Repository:
+
+https://github.com/IgorLopes96/customer-churn-segmentation-dashboard
 📊 Kaggle Notebook: https://kaggle.com/igormlopes
